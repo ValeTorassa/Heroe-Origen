@@ -1,0 +1,30 @@
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfo.cs
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\bin\Debug\net6.0\Controladora.deps.json
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\bin\Debug\net6.0\Controladora.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\bin\Debug\net6.0\Controladora.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\bin\Debug\net6.0\Modelo.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\bin\Debug\net6.0\Modelo.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\Controladora.csproj.CopyComplete
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\Controladora.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\refint\Controladora.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\Controladora.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\Controladora\obj\Debug\net6.0\ref\Controladora.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfo.cs
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\Controladora.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\refint\Controladora.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\Controladora.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\bin\Debug\net6.0\Controladora.deps.json
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\bin\Debug\net6.0\Controladora.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\bin\Debug\net6.0\Controladora.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\bin\Debug\net6.0\Modelo.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\bin\Debug\net6.0\Modelo.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\Controladora.csproj.CopyComplete
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Controladora\obj\Debug\net6.0\ref\Controladora.dll

@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\CRUD_NET6\\CRUD.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Controladora\\Controladora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Controladora\\Controladora.csproj",
+        "projectName": "Controladora",
+        "projectPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Controladora\\Controladora.csproj",
+        "packagesPath": "C:\\Users\\Valen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Controladora\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Modelo\\Modelo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\CRUD_NET6\\CRUD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\CRUD_NET6\\CRUD.csproj",
+        "projectName": "CRUD",
+        "projectPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\CRUD_NET6\\CRUD.csproj",
+        "packagesPath": "C:\\Users\\Valen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\CRUD_NET6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Controladora\\Controladora.csproj": {
+                "projectPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Controladora\\Controladora.csproj"
+              },
+              "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Modelo\\Modelo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Modelo\\Modelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Modelo\\Modelo.csproj",
+        "projectName": "Modelo",
+        "projectPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Modelo\\Modelo.csproj",
+        "packagesPath": "C:\\Users\\Valen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valen\\Desktop\\Programas en Base de Datos\\Heroe-Origen UNO A UNO\\Modelo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

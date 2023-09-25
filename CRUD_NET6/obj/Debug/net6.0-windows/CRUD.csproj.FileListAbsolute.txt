@@ -1,0 +1,85 @@
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormAvionesAM.resources
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormPasajerosAM.resources
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormTicketsAM.resources
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.csproj.GenerateResource.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.AssemblyInfoInputs.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.AssemblyInfo.cs
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.exe
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\appSettings.json
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.deps.json
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.runtimeconfig.json
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Controladora.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Modelo.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Controladora.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\bin\Debug\net6.0-windows\Modelo.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.csproj.CopyComplete
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\refint\CRUD.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.genruntimeconfig.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\ref\CRUD.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormPasajerosDGV.resources
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormAvionesDGV.resources
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormMenu.resources
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormTicketsDGV.resources
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormTicketVisualizer.resources
+C:\Users\Valen\Desktop\Sistema de Aviones\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.Properties.Resources.resources
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.Properties.Resources.resources
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.csproj.GenerateResource.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.AssemblyInfoInputs.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.AssemblyInfo.cs
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\refint\CRUD.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormDGVs.resources
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormHeroeAM.resources
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.FormOrigenAM.resources
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.exe
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\appSettings.json
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.deps.json
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.runtimeconfig.json
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\CRUD.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Controladora.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Modelo.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Controladora.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\bin\Debug\net6.0-windows\Modelo.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.csproj.CopyComplete
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\CRUD.genruntimeconfig.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\CRUD_NET6\obj\Debug\net6.0-windows\ref\CRUD.dll

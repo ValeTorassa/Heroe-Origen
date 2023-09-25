@@ -1,0 +1,24 @@
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\Users\Valen\Desktop\Sistema de Aviones\Modelo\obj\Debug\net6.0\ref\Modelo.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\Users\Valen\Desktop\Programas en Base de Datos\Heroe-Origen UNO A UNO\Modelo\obj\Debug\net6.0\ref\Modelo.dll
